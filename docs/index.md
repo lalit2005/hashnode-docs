@@ -2,10 +2,10 @@
 
 <Grid
   items={[
-    {title: 'Hashnode', description: 'Visit Hashnode', link: 'https://hashnode.com'},
-    {title: 'Hyperdocs', description: 'Visit Hyperdocs', link: 'https://hyperdocs.netlify.app'},
-    {title: 'Visit repo', description: 'Visit this docs site on GitHub', link: 'https://github.com/lalit2005/hashnode-docs'},
-    {title: 'Hyperdocs GitHub', description: 'Visit Hyperdocs on GitHub', link: 'https://github.com/lalit2005/hashnode-docs'},
+    {title: 'Hashnode', description: 'Visit Hashnode', link: 'https://hashnode.com', color: 'blue'},
+    {title: 'Hyperdocs', description: 'Visit Hyperdocs', link: 'https://hyperdocs.netlify.app', color: 'green'},
+    {title: 'Visit repo', description: 'Visit this docs site on GitHub', link: 'https://github.com/lalit2005/hashnode-docs', color: 'yellow'},
+    {title: 'Hyperdocs GitHub', description: 'Visit Hyperdocs on GitHub', link: 'https://github.com/lalit2005/hashnode-docs', color: 'cyan'},
   ]}
 />
 
